@@ -12,11 +12,11 @@ Gtk2::Ex::Email::AttachmentVBox - Creates a VBox for handling attachments.
 
 =head1 VERSION
 
-Version 0.0.0
+Version 0.0.1
 
 =cut
 
-our $VERSION = '0.0.0';
+our $VERSION = '0.0.1';
 
 
 =head1 SYNOPSIS
@@ -316,7 +316,7 @@ sub vbox{
 
 =head1 AUTHOR
 
-Zane C. Bowers, C<< <vvelox at vvelox.net> >>
+Zane C. Bowers-Hadley, C<< <vvelox at vvelox.net> >>
 
 =head1 BUGS
 
@@ -359,10 +359,11 @@ L<http://search.cpan.org/dist/Gtk2-Ex-Email-AttachmentVBox/>
 
 =head1 ACKNOWLEDGEMENTS
 
+ANDK, #51565, notified be about a missing dependency
 
 =head1 COPYRIGHT & LICENSE
 
-Copyright 2009 Zane C. Bowers, all rights reserved.
+Copyright 2011 Zane C. Bowers-Hadley, all rights reserved.
 
 This program is free software; you can redistribute it and/or modify it
 under the same terms as Perl itself.
